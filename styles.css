@@ -1,0 +1,12 @@
+body {
+	font-family: Verdana, sans serif;
+	font-size: small;
+	background-color: #aaaaaa;
+	
+}
+
+h1 { font-size: 150%; }
+
+h2 { font-size: 130%; }
+
+h1, h2 { text-align: center; }
